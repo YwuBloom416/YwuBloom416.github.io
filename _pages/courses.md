@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<span style="color: #4B2E83;">
+<span style="color: #4B2E83;"font-size:18.0pt">
 **Theory Courses**
 </span>
 * **Statistical Inference for Biometry I & II**
