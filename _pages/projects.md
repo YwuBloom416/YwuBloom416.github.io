@@ -9,6 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+Predictive Modeling of Inpatient Admission (Oct 2021 – Mar 2022)
+======
+* Predict inpatient admission with penalized logistic regression and tree-based methods (XGBoost, BART).
+* Implement classification with no discrimination (CND) technique to adjust for racial bias and evaluate results with R
+
 Disease Mapping of Female Breast Cancer Incidence in Pennsylvania  (Jan 2022 – Mar 2022)
 ======
 * Analyze alcohol consumption and overweight factors association with breast cancer
