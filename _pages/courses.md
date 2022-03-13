@@ -30,7 +30,7 @@ Applied Statistics Courses
   * Model diagnostics and assumptions
   * Regression analyse: Multiple linear regression, Multiple logistic regression, Multiple Cox proportional hazards models
  
-* \textcolor{purple}{\textbf{some bold and colored textMachine Learning: Nonparametric Regression and Classification}}
+* Machine Learning: Nonparametric Regression and Classification
   * Flexible nonparametric models including splines, generalized additive models, regression trees, random forests, neural networks, etc. 
   * Techniques for smoothing, regression, and classification
   * Ensemble averaging models
@@ -41,10 +41,8 @@ Applied Statistics Courses
   * Analysis of correlated (longitudinal) data
   * Linear mixed model; GEE; Generalized linear mixed model; Transition models; Multilevel models; 
   * Missing data imputation
-  * Group project: 
-    *Explore clinical efficacy of the four treatment regimens for HIV-infected patients with advanced disease via longitudinal measurements of subjects’ CD4 cell counts throughout the 40-week study period
-    * Perform 3 potential linear mixed models (LMM) including group, week and their interaction with linear spline model for time on log-CD4 counts 
-    * Conduct sensitivity analysis and AIC to choose appropriate model
+  * Group project: [Efficacy of Treatment Regimens for HIV Patients](https://ywubloom416.github.io/projects/)
+    
 
 
 * Introduction to Biomedical Data Science
@@ -57,11 +55,7 @@ Applied Statistics Courses
   * Reproducible analyses and report generation (with github and R-markdown)
   * Statistical issues which affect the reliability of scientific conclusions (Sampling, Confounding, and Inference)
   * Intro to machine learning
-  * Group Project:  
-    * Association between Bile Acids and Enterolactone & Enterodiol
-    * Evaluating the association between concentration of different bile acids and ENL as well as END.
-    * Perform Linear mixed model with each bile acid concentration 
-    * Benjamin-Hochberg procedure to control for multiple comparison.
+  * Group Project: [Association between Bile Acids and Enterolactone (ENL) & Enterodiol (END)](https://ywubloom416.github.io/projects/)
 
 
 * Computational Skills for Biostatistics
@@ -92,20 +86,18 @@ Applied Statistics Courses
   * Spatial regression: Problems with conventional analyses; Methods for acknowledgement of residual spatial dependence.
   * Small area estimation (domain estimation): Incorporation of design weights; Bayesian model-based approaches                 
   * GIS: Background to GIS; How to draw maps in R.
-  * Course Project: 
-    * Will add later...
+  * Course Project: [Disease Mapping of Female Breast Cancer Incidence in Pennsylvania](https://ywubloom416.github.io/projects/)
 
 * Survival Data Analysis
   * Nonparametric and semiparametric techniques along with common parametric approaches
   * Regression methods for survival outcome data: Multiplicative models 
-  * Group Project: 
-    * Will add later...
+  * Group Project: [Identify Factors for Informing Bone Marrow Transplant Patient Prognosis ](https://ywubloom416.github.io/projects/)
 
 
 Writing and Communication Courses
 ======
 * Writing, Presentation Skills for Biostatistics: Data Analysis and Reporting	
-  * Course project:   Exploratory Analysis of The Happy Planet Index (HPI) and National Happiness
+  * Course project: [Exploratory Analysis of The Happy Planet Index (HPI) and National Happiness](https://ywubloom416.github.io/projects/)
 
 Public Health Course
 ======
