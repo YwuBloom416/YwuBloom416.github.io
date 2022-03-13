@@ -38,7 +38,6 @@ Work experience
   * Identify differential expression of patients with Parkinson’s disease in RNA-sequencing data after data pre-processing
   * Combine true p-values from two data types with Stouffer’s method and Fisher’s method and control family-wise error rate and false discovery rate for multiple comparison problems
   
-**Pennsylvania State University**
 * R Shiny Developer Intern (May 2019 – Jul 2019)
   * Develop Population Growth R shiny webapp allowing users to modify the factors and explore their effects on the rabbit’s population growth using R shiny
   * Simulate rabbit’s population and add stochasticity by applying Poisson distribution as the model
