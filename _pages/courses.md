@@ -30,7 +30,7 @@ Applied Statistics Courses
   * Model diagnostics and assumptions
   * Regression analyse: Multiple linear regression, Multiple logistic regression, Multiple Cox proportional hazards models
  
-* Machine Learning: Nonparametric Regression and Classification
+* \textcolor{purple}{\textbf{some bold and colored textMachine Learning: Nonparametric Regression and Classification}}
   * Flexible nonparametric models including splines, generalized additive models, regression trees, random forests, neural networks, etc. 
   * Techniques for smoothing, regression, and classification
   * Ensemble averaging models
