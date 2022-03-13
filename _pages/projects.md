@@ -10,8 +10,7 @@ redirect_from:
 {% include base_path %}
 
 <span style="color: #4B2E83; font-size:16.0pt">
-**Predictive Modeling of Inpatient Admission** 
-
+**Predictive Modeling of Inpatient Admission**
 **(Oct 2021 – Mar 2022)**
 </span>
 
@@ -19,8 +18,7 @@ redirect_from:
 * Implement classification with no discrimination (CND) technique to adjust for racial bias and evaluate results with R
 
 <span style="color: #4B2E83; font-size:16.0pt">
-**Disease Mapping of Female Breast Cancer Incidence in Pennsylvania**  
-
+**Disease Mapping of Female Breast Cancer Incidence in Pennsylvania**
 **(Jan 2022 – Mar 2022)**
 </span>
 
@@ -28,8 +26,7 @@ redirect_from:
 * Build Poisson-Lognormal spatial smoothing model
 
 <span style="color: #4B2E83; font-size:16.0pt">
-**Identify Factors for Informing Bone Marrow Transplant Patient Prognosis** 
-
+**Identify Factors for Informing Bone Marrow Transplant Patient Prognosis**
 **(Jan 2022 – Mar 2022)**
 </span>
 
@@ -37,8 +34,7 @@ redirect_from:
 * Perform Cox proportional hazards model with adjustments
 
 <span style="color: #4B2E83; font-size:16.0pt">
-**Exploratory Analysis of HPI and National Happiness** 
-
+**Exploratory Analysis of HPI and National Happiness**
 **(Mar 2021 – Jun 2021)**
 </span>
 
@@ -47,8 +43,7 @@ redirect_from:
 * Visualize and compare results between clustering analysis and partitioned HPI using world maps by ggplot2 and Plotly
 
 <span style="color: #4B2E83; font-size:16.0pt">
-**Efficacy of Treatment Regimens for HIV Patients** 
-
+**Efficacy of Treatment Regimens for HIV Patients**
 **(Mar 2021 – May 2021)**
 </span>
 
@@ -57,8 +52,7 @@ redirect_from:
 * Conduct sensitivity analysis and AIC to choose appropriate model
 
 <span style="color: #4B2E83; font-size:16.0pt">
-**Association between Bile Acids and Enterolactone (ENL) & Enterodiol (END)** 
-
+**Association between Bile Acids and Enterolactone (ENL) & Enterodiol (END)**
 **(Jun 2020 – Aug 2020)**
 </span>
 
@@ -70,7 +64,6 @@ redirect_from:
 
 <span style="color: #4B2E83; font-size:16.0pt">
 **Covid19 Barchart Race Animation Application**
-
 **(Jun 2020 – Aug 2020)**
 </span>
 
