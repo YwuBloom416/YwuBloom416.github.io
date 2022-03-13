@@ -25,7 +25,7 @@ redirect_from:
 <span style="color: #4B2E83;">
 **Applied Statistics Courses**
 </span>
-======
+
 * **Biostatistics I & II**
   * Descriptive analyses, statistical inference, statistical testing
   * Dummy variables, interactions, and variable transformations 
@@ -100,14 +100,12 @@ redirect_from:
 <span style="color: #4B2E83;">
 **Writing and Communication Courses**
 </span>
-======
 * **Writing, Presentation Skills for Biostatistics: Data Analysis and Reporting**
   * Course project: [Exploratory Analysis of The Happy Planet Index (HPI) and National Happiness](https://ywubloom416.github.io/projects/)
 
 <span style="color: #4B2E83;">
 **Public Health Course**
 </span>
-======
 * **Foundations of Public Health for Biostatistics**
   * Public health concepts related to the profession and science of public health 
   * Factors related to human health
