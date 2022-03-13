@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<span style="color: purple;">
+<span style="color: 4B2E83;">
 Theory Courses
 ======
 </span>
