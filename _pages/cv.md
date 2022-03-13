@@ -42,10 +42,12 @@ Work experience
 Skills
 ======
 * Skills
-  * R; Python; R shiny; SQL; MySQL; SAS; Tableau; Microsoft Office Suite; 
-  * Machine Learning; A/B Testing; Minitab; MATLAB; Latex; 
-  * SAS Base Certification; AWS S3; Git
-• Language: 
+  * R; Python; R shiny; SQL; MySQL; SAS; Tableau; Microsoft Office Suite; Minitab; MATLAB; Latex
+  * Machine Learning; A/B Testing
+  * AWS S3; Git
+  * SAS Base Certification
+  
+* Language: 
   * English (Fluent)
   * Chinese (Native)
   * French (Basic)

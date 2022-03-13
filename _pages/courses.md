@@ -11,8 +11,8 @@ redirect_from:
 
 <span style="color: purple;">
 Theory Courses
-</span>
 ======
+</span>
 * **Statistical Inference for Biometry I & II**
   * Probability
   * Parametric  distributions
