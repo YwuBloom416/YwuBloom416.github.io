@@ -11,8 +11,11 @@ redirect_from:
 
 Education
 ======
-* M.S. in Biostatistics (Data Science Emphasis), University of Washington, Sep 2020 – Mar 2022
-* B.S. in Statistics; Schreyer Honors College; Minor in Biology and Computer Science, Pennsylvania State University, Aug 2016 – May 2020
+* **University of Washington**
+  * M.S. in Biostatistics (Data Science Emphasis), Sep 2020 – Mar 2022
+* **Pennsylvania State University**
+  * Schreyer Honors College
+  * B.S. in Statistics; Minor in Biology and Computer Science, Aug 2016 – May 2020
 
 
 Work experience
