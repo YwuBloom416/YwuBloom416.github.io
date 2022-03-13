@@ -86,14 +86,14 @@ Applied Statistics Courses
 
 
 * Statistical Methods for Spatial Epidemiology
- * Analysis of spatially indexed epidemiological data
- * Clustering and cluster detection: Autocorrelation statistics; Scan statistics: SatScan package.
- * Disease mapping: Geostatistical smoothing models for point data, including prevalence mapping; Conditional and joint models for areal (aggregate) data; Extension to space-time analysis
- * Spatial regression: Problems with conventional analyses; Methods for acknowledgement of residual spatial dependence.
- * Small area estimation (domain estimation): Incorporation of design weights; Bayesian model-based approaches                 
- * GIS: Background to GIS; How to draw maps in R.
- * Course Project: 
-   * Will add later...
+  * Analysis of spatially indexed epidemiological data
+  * Clustering and cluster detection: Autocorrelation statistics; Scan statistics: SatScan package.
+  * Disease mapping: Geostatistical smoothing models for point data, including prevalence mapping; Conditional and joint models for areal (aggregate) data; Extension to space-time analysis
+  * Spatial regression: Problems with conventional analyses; Methods for acknowledgement of residual spatial dependence.
+  * Small area estimation (domain estimation): Incorporation of design weights; Bayesian model-based approaches                 
+  * GIS: Background to GIS; How to draw maps in R.
+  * Course Project: 
+    * Will add later...
 
 * Survival Data Analysis
   * Nonparametric and semiparametric techniques along with common parametric approaches
