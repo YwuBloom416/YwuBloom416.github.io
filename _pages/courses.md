@@ -9,9 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+<span style="color: purple;">
 Theory Courses
+</span>
 ======
-* Statistical Inference for Biometry I & II
+* **Statistical Inference for Biometry I & II**
   * Probability
   * Parametric  distributions
   * Exact and  asymptotic  sampling  distribution  of  statistics
@@ -21,23 +23,25 @@ Theory Courses
   * Bayesian inference
   
   
+<span style="color: purple;">
 Applied Statistics Courses
+</span>
 ======
-* Biostatistics I & II
+* **Biostatistics I & II**
   * Descriptive analyses, statistical inference, statistical testing
   * Dummy variables, interactions, and variable transformations 
   * Confounding variables, effect modifiers, and precision variables 
   * Model diagnostics and assumptions
   * Regression analyse: Multiple linear regression, Multiple logistic regression, Multiple Cox proportional hazards models
  
-* Machine Learning: Nonparametric Regression and Classification
+* **Machine Learning: Nonparametric Regression and Classification**
   * Flexible nonparametric models including splines, generalized additive models, regression trees, random forests, neural networks, etc. 
   * Techniques for smoothing, regression, and classification
   * Ensemble averaging models
   * Describes measures of predictive performance, along with methods for balancing bias and variance.
 
 
-* Longitudinal and Multilevel Data Analysis
+* **Longitudinal and Multilevel Data Analysis**
   * Analysis of correlated (longitudinal) data
   * Linear mixed model; GEE; Generalized linear mixed model; Transition models; Multilevel models; 
   * Missing data imputation
@@ -45,7 +49,7 @@ Applied Statistics Courses
     
 
 
-* Introduction to Biomedical Data Science
+* **Introduction to Biomedical Data Science**
   * Overview of various biomedical data and tools for collecting such data (omics data, electronic health records, surveys)
   * Data wrangling (data integration, data quality control, data cleaning, and query tools such as SQL) in R (with dplyR and RSQL)
   * Basic methods for processing unstructured data such as imaging and text (natural language processing)
@@ -58,7 +62,7 @@ Applied Statistics Courses
   * Group Project: [Association between Bile Acids and Enterolactone (ENL) & Enterodiol (END)](https://ywubloom416.github.io/projects/)
 
 
-* Computational Skills for Biostatistics
+* **Computational Skills for Biostatistics**
   * Detecting performance bottlenecks
   * Basic C/C++ programming to speed up R functions
   * R for data wrangling with tidyverse
@@ -66,7 +70,7 @@ Applied Statistics Courses
   * Debug, profile, and optimize your R code and speed-up computations with Rcpp
   
 
-* Categorical Data Analysis
+* **Categorical Data Analysis**
   * Measures of Disease Occurrence and Association
   * Confounding and Collapsibility
   * Directed Acyclic Graphs and Causal Models
@@ -79,7 +83,7 @@ Applied Statistics Courses
   * Polytomous Logistic Regression (time permitting) 
 
 
-* Statistical Methods for Spatial Epidemiology
+* **Statistical Methods for Spatial Epidemiology**
   * Analysis of spatially indexed epidemiological data
   * Clustering and cluster detection: Autocorrelation statistics; Scan statistics: SatScan package.
   * Disease mapping: Geostatistical smoothing models for point data, including prevalence mapping; Conditional and joint models for areal (aggregate) data; Extension to space-time analysis
@@ -88,20 +92,24 @@ Applied Statistics Courses
   * GIS: Background to GIS; How to draw maps in R.
   * Course Project: [Disease Mapping of Female Breast Cancer Incidence in Pennsylvania](https://ywubloom416.github.io/projects/)
 
-* Survival Data Analysis
+* **Survival Data Analysis**
   * Nonparametric and semiparametric techniques along with common parametric approaches
   * Regression methods for survival outcome data: Multiplicative models 
   * Group Project: [Identify Factors for Informing Bone Marrow Transplant Patient Prognosis ](https://ywubloom416.github.io/projects/)
 
 
+<span style="color: purple;">
 Writing and Communication Courses
+</span>
 ======
-* Writing, Presentation Skills for Biostatistics: Data Analysis and Reporting	
+* **Writing, Presentation Skills for Biostatistics: Data Analysis and Reporting**
   * Course project: [Exploratory Analysis of The Happy Planet Index (HPI) and National Happiness](https://ywubloom416.github.io/projects/)
 
+<span style="color: purple;">
 Public Health Course
+</span>
 ======
-* Foundations of Public Health for Biostatistics
+* **Foundations of Public Health for Biostatistics**
   * Public health concepts related to the profession and science of public health 
   * Factors related to human health
 
