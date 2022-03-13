@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 <span style="color: #4B2E83;">
-*Theory Courses*
+**Theory Courses**
 </span>
 * **Statistical Inference for Biometry I & II**
   * Probability
@@ -22,8 +22,8 @@ redirect_from:
   * Bayesian inference
   
   
-<span style="color: purple;">
-Applied Statistics Courses
+<span style="color: #4B2E83;">
+**Applied Statistics Courses**
 </span>
 ======
 * **Biostatistics I & II**
@@ -97,15 +97,15 @@ Applied Statistics Courses
   * Group Project: [Identify Factors for Informing Bone Marrow Transplant Patient Prognosis ](https://ywubloom416.github.io/projects/)
 
 
-<span style="color: purple;">
-Writing and Communication Courses
+<span style="color: #4B2E83;">
+**Writing and Communication Courses**
 </span>
 ======
 * **Writing, Presentation Skills for Biostatistics: Data Analysis and Reporting**
   * Course project: [Exploratory Analysis of The Happy Planet Index (HPI) and National Happiness](https://ywubloom416.github.io/projects/)
 
-<span style="color: purple;">
-Public Health Course
+<span style="color: #4B2E83;">
+**Public Health Course**
 </span>
 ======
 * **Foundations of Public Health for Biostatistics**
