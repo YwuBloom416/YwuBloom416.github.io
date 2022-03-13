@@ -68,5 +68,4 @@ redirect_from:
 </span>
 
 * Create a Covid19 barchart race animation from April 13 to July 31 by ethnicity in California utilizing Python
-* Generate smooth transition with Pandas series and prepare all dataframes needed for plotting in a single function
-* Create animation with Matplotlib
+* Generate smooth transition with Pandas series and prepare all dataframes needed for plotting in a single function and create animation with Matplotlib
