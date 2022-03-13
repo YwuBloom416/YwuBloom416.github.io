@@ -22,7 +22,7 @@ redirect_from:
   * Bayesian inference
   
   
-<span style="color: #4B2E83;">
+<span style="color: #4B2E83; font-size:18.0pt">
 **Applied Statistics Courses**
 </span>
 
@@ -97,13 +97,13 @@ redirect_from:
   * Group Project: [Identify Factors for Informing Bone Marrow Transplant Patient Prognosis ](https://ywubloom416.github.io/projects/)
 
 
-<span style="color: #4B2E83;">
+<span style="color: #4B2E83; font-size:18.0pt">
 **Writing and Communication Courses**
 </span>
 * **Writing, Presentation Skills for Biostatistics: Data Analysis and Reporting**
   * Course project: [Exploratory Analysis of The Happy Planet Index (HPI) and National Happiness](https://ywubloom416.github.io/projects/)
 
-<span style="color: #4B2E83;">
+<span style="color:#4B2E83; font-size:18.0pt">
 **Public Health Course**
 </span>
 * **Foundations of Public Health for Biostatistics**
